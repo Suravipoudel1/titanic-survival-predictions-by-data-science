@@ -51,12 +51,13 @@ The model predicts the survival of Titanic passengers with high accuracy, demons
 <img width="643" height="562" alt="image" src="https://github.com/user-attachments/assets/1b2f78d7-8370-4817-b48e-caec76de7b77" />
 <img width="641" height="562" alt="image" src="https://github.com/user-attachments/assets/ad6e704b-7fa4-42fd-a719-f9cd529805ea" />
 
-
-
-
-
 ## Author
 
-Suravi Poudel
+**Suravi Poudel**
+
+## Contact
+
+For any questions or collaboration, you can reach me at:  
+**Email:** [suravipoudel831@gmail.com](mailto:suravipoudel831@gmail.com)
 
    
