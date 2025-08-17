@@ -43,6 +43,13 @@ The project follows a structured machine learning workflow:
 
 The model predicts the survival of Titanic passengers with high accuracy, demonstrating the importance of factors such as age, gender, and passenger class in survival rates.
 
+## Graphs
+<img width="785" height="651" alt="image" src="https://github.com/user-attachments/assets/fdda976e-4222-47ee-9b9c-51f469cf1cb9" />
+<img width="1718" height="470" alt="image" src="https://github.com/user-attachments/assets/3cb3d6ee-40c8-41b4-8b90-402da85b207d" />
+<img width="1719" height="419" alt="image" src="https://github.com/user-attachments/assets/0743126c-b93b-42c5-b369-f40209bee9cc" />
+
+
+
 ## Author
 
 Suravi Poudel
