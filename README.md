@@ -39,11 +39,11 @@ The project follows a structured machine learning workflow:
    ```bash
    pip install -r requirements.txt
 
-Results
+## Results
 
 The model predicts the survival of Titanic passengers with high accuracy, demonstrating the importance of factors such as age, gender, and passenger class in survival rates.
 
-Author
+## Author
 
 Suravi Poudel
 
