@@ -44,9 +44,16 @@ The project follows a structured machine learning workflow:
 The model predicts the survival of Titanic passengers with high accuracy, demonstrating the importance of factors such as age, gender, and passenger class in survival rates.
 
 ## Graphs
+<img width="635" height="621" alt="image" src="https://github.com/user-attachments/assets/3851f5a7-853d-4563-8721-3ce4effb811f" />
 <img width="785" height="651" alt="image" src="https://github.com/user-attachments/assets/fdda976e-4222-47ee-9b9c-51f469cf1cb9" />
+<img width="715" height="562" alt="image" src="https://github.com/user-attachments/assets/ac0a4426-88dc-49d1-b7fe-359961005e49" />
+<img width="709" height="552" alt="image" src="https://github.com/user-attachments/assets/ea51416c-2c23-4ae2-aa60-118cc6be2b7a" />
 <img width="1718" height="470" alt="image" src="https://github.com/user-attachments/assets/3cb3d6ee-40c8-41b4-8b90-402da85b207d" />
 <img width="1719" height="419" alt="image" src="https://github.com/user-attachments/assets/0743126c-b93b-42c5-b369-f40209bee9cc" />
+<img width="643" height="562" alt="image" src="https://github.com/user-attachments/assets/1b2f78d7-8370-4817-b48e-caec76de7b77" />
+<img width="641" height="562" alt="image" src="https://github.com/user-attachments/assets/ad6e704b-7fa4-42fd-a719-f9cd529805ea" />
+
+
 
 
 
