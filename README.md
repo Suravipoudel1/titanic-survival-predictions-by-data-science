@@ -34,8 +34,9 @@ The project follows a structured machine learning workflow:
 - Scikit-learn (Machine Learning)  
 
 ## How to Run
-1. Clone this repository.  
-2. Install the required libraries:  
+1. Clone this repository.
+   git clone https://github.com/Suravipoudel1/titanic-survival-predictions-by-data-science.git
+3. Install the required libraries:  
    ```bash
    pip install -r requirements.txt
 
