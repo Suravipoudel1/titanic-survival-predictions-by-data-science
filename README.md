@@ -8,7 +8,7 @@ This project focuses on predicting the survival of passengers aboard the Titanic
 ## Dataset
 The dataset is sourced from [Kaggle’s Titanic dataset](https://www.kaggle.com/c/titanic/data) and contains information about the passengers, including:  
 - PassengerId  
-- Pclass (Ticket class)  
+- Pclass(Ticket class)  
 - Name  
 - Sex  
 - Age  
@@ -17,7 +17,7 @@ The dataset is sourced from [Kaggle’s Titanic dataset](https://www.kaggle.com/
 - Ticket  
 - Fare  
 - Cabin  
-- Embarked (Port of Embarkation)  
+- Embarked(Port of Embarkation)  
 
 ## Project Overview
 The project follows a structured machine learning workflow:  
